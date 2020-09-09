@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 \
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=champon1020&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=monokai" />
-<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=champon1020&hide=assembly,scilab&layout=compact&theme=monokai&card_width=210" />
+<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=champon1020&hide=assembly,scilab&layout=compact&theme=monokai&card_width=230" />
