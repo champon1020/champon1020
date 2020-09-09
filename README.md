@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Swagger-85ea2d?style=flat-square&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
+\
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=champon1020&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=monokai" />
-<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=champon1020&hide=assembly,scilab&layout=compact&theme=monokai" />
+<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=champon1020&hide=assembly,scilab&layout=compact&theme=monokai&card_width=210" />
