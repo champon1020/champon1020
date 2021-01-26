@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 \
 <img src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GNU Emacs-7f58b6?style=flat-square&logo=GNU%20Emacs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Google Cloud-4285f4?style=flat-square&logo=Google%20Cloud&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-85ea2d?style=flat-square&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
