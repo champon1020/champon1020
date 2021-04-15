@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Keio University.
-- 📫 How to reach me: [https://blog.champonian.com/](https://blog.champonian.com/)
+- 📫 How to reach me: [https://champonian.com/](https://blog.champonian.com/)
 
 \
 <img src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
