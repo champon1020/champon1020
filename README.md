@@ -1,4 +1,4 @@
-## champon1020
+## champon (Yoshiki Nagasaki)
 
 <!--
 **champon1020/champon1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
